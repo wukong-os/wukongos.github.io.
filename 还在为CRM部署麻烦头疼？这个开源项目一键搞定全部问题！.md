@@ -109,4 +109,6 @@ up：创建并启动 docker-compose.yml 中定义的所有服务容器（如 Web
 
 技术论坛：bbs.72crm.com
 
+Wukong_AI_CRM_15： https://github.com/WuKongOpenSource/Wukong_AI_CRM_15
+
 👉 悟空团队将持续以技术创新，赋能企业客户管理数字化升级。欢迎加入悟空开源社区，共建更智能的CRM生态！
