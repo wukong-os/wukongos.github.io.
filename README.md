@@ -1,3 +1,4 @@
+For English, please refer to: README EN.md
 悟空AI-CRM 15 开源预览版
 
 一、悟空CRM介绍
